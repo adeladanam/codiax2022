@@ -1,0 +1,7 @@
+train: data/images/train  # train images
+val: data/images/val  # val images
+test:  # test images (optional)
+# number of classes
+nc: 1
+# class names
+names: ['card']
